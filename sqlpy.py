@@ -1,3 +1,4 @@
+#MADE BY chatgpt .__.
 import os
 import platform
 
