@@ -1,4 +1,4 @@
-# Sqlpy/opkmg
+# Opkmg
 
 Created by: grigri307
 
