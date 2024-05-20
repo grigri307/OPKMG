@@ -4,7 +4,7 @@ Created by: grigri307
 
 # Description
 
-Ce programme Python est une interface pour la gestion de fichiers texte pour windows.
+Ce programme Python est une interface pour la gestion de fichiers texte windows.
 
 # Examples
 
